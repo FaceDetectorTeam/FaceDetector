@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\bin\Debug\FaceDetector.exe.config
+c:\users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\bin\Debug\FaceDetector.exe
+c:\users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\bin\Debug\FaceDetector.pdb
+c:\users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\obj\Debug\FaceDetector.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\obj\Debug\FaceDetector.Properties.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\obj\Debug\FaceDetector.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\obj\Debug\FaceDetector.exe
+c:\users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\obj\Debug\FaceDetector.pdb
+C:\Users\1\documents\visual studio 2012\Projects\FaceDetector\FaceDetector\obj\Debug\FaceDetector.MainWIndow.resources
